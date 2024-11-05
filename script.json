@@ -1,0 +1,54 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          " "
+        ],
+
+        "responses": [
+          "Hey :-)",
+          "Hello, chào mừng bạn tới với chatbot",
+          "Hiiiii, tôi có thể tư vấn gì cho bạn",
+          "bạn có muốn tôi giúp gì không?"
+        ]
+
+      },
+
+      {
+        "tag" : "questions",
+
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          " "
+        ],
+
+        "responses": [
+          "Hey :-)",
+          "Hello, chào mừng bạn tới với chatbot",
+          "Hiiiii, tôi có thể tư vấn gì cho bạn",
+          "bạn có muốn tôi giúp gì không?"
+        ]
+
+      }
+
+
+
+
+                ]
+}
+
+  
+  
