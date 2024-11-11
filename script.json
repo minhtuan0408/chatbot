@@ -28,9 +28,11 @@
       ]
     },
     {
-      "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "tag": "tour",
+      "patterns": ["Thăm câu lạc bộ ", "Hạng vé cổ điển ", "That's helpful", "Thank's a lot!"],
+      "responses": [
+        "Chúng tôi có 3 hạng vé như là : cổ điển, Phổ thông , Thương gia  và bạn muốn trải nhiệm hạng vé nào "
+      , "Any time!", "My pleasure"]
     }
   ]
 }
