@@ -46,6 +46,7 @@ def genai(question):
     )
 
     # Xử lý câu hỏi và tạo prompt
+ # cẩu hỏi vào 
     prompt = ChatPromptTemplate.from_messages(
         [
             SystemMessage(content=system_prompt),  # Prompt hệ thống
